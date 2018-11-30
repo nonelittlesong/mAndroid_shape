@@ -1,4 +1,4 @@
-# mAndroid_shape
+# shape
 shape标签对应的Drawable是GradientDrawable。  
 可以替代图片作为View的背景。  
 ```
@@ -104,3 +104,5 @@ shape标签对应的Drawable是GradientDrawable。
     
 </shape>
 ```
+
+# selector
