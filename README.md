@@ -109,3 +109,4 @@ shape标签对应的Drawable是GradientDrawable。
 # vector
 # resources
 # dimens.xml
+# menu
