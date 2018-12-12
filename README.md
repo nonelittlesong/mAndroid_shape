@@ -108,5 +108,13 @@ shape标签对应的Drawable是GradientDrawable。
 # selector
 # vector
 # resources
+**1. ids.xml**  
+```
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="expandable_text"/>
+    <item type="id" name="expand_collapse"/>
+</resources>
+```
 # dimens.xml
 # menu
